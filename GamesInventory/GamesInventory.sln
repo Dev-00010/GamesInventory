@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesInventory.Models", "GamesInventory.Models\GamesInventory.Models.csproj", "{F2F35C2E-D6B6-4B16-984E-9E2407C96F9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesInventory.Tests", "GamesInventory.Tests\GamesInventory.Tests.csproj", "{FBEE4E10-BF52-4C49-B713-25D80FAF1BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F35C2E-D6B6-4B16-984E-9E2407C96F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F35C2E-D6B6-4B16-984E-9E2407C96F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F35C2E-D6B6-4B16-984E-9E2407C96F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F35C2E-D6B6-4B16-984E-9E2407C96F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEE4E10-BF52-4C49-B713-25D80FAF1BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEE4E10-BF52-4C49-B713-25D80FAF1BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEE4E10-BF52-4C49-B713-25D80FAF1BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEE4E10-BF52-4C49-B713-25D80FAF1BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D6A76E9-16C9-40C7-A283-5F854ED2BD8A}
+	EndGlobalSection
+EndGlobal
